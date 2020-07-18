@@ -1,0 +1,23 @@
+#respuesta {
+    position: relative;
+    margin-top: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+}
+
+.verde {
+    background-color: rgb(29, 228, 39);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: white;
+}
+
+.azul {
+    background-color: rgb(29, 49, 228);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: white;
+}
